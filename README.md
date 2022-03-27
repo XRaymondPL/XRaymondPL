@@ -1,5 +1,5 @@
 **👋 | Raymondziq**
-![](https://share.creavite.co/c94BzbsnTES46TPc.gif)
+![](https://github.com/XRaymondPL/XRaymondPL/blob/main/standard.gif)
 
 
 💻 - HTML, CSS, JS, C++, C#, LUA, PYTHON, PHP
