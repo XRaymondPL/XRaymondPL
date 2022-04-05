@@ -1,21 +1,71 @@
-**👋 | Raymondziq**
+<h2 align="center">
 
-💻 - HTML, CSS, JS, C++, C#, LUA, PYTHON, PHP
-
-**🈶 | HTML - 75%
-🈶 | CSS - 80%
-🈶 | JS - 70%
-🈶 | C++ - 95%
-🈶 | C# - 98%
-🈶 | LUA - 65%
-🈶 | PYTHON - 99%
-🈶 | PHP - 75%**
-
-- ⚡ Fun fact: Canada is south of Detroit (just look at a map). 
+  
+<p align="center">
+  
+  ![official2](https://github.com/XRaymondPL/XRaymondPL/blob/main/standard.gif)
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/XRaymondPL)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/XRaymondPL)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCvXqOLKhE-U6ufEWyLH7QHA)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](localhost)  
 
-![Profile views](https://gpvc.arturio.dev/XRaymondPL)  
 
-![](https://github.com/XRaymondPL/XRaymondPL/blob/main/standard.gif)
+<p align="center">
+  <a href="https://raymondziq.xyz/">
+   <img alt="Github" src="https://img.shields.io/badge/2137-RAYMONDZIQ%20IS%20A%20DEV-brightgreen"></a> 
+  
+
+
+  
+</p>
+<p align="center">
+    <a href="https://discord.com/users/904342910651232256">
+   <img alt="Discord" src="https://img.shields.io/badge/Discord-Raymondziq%230001-7289DA?style=for-the-badge&logo=discord&logoColor=7289DA&logoWidth=10&labelColor=000'"></a>  
+  <a href="https://github.com/XRaymondPL">
+   <img alt="Github" src="https://img.shields.io/github/followers/XRaymondPL?color=7289DA&logo=github&label=Followers&style=for-the-badge&logoWidth=10&labelColor=000'"></a>   
+  
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&row=2&column=8&theme=dark_lover)](https://github.com/ryo-ma/github-profile-trophy)
+
+  
+
+  
+</p>
+<p align="center">
+<img src="https://readme-spotify-status-liart.vercel.app/api/run-spotify-status" alt="Spotify" width="300" align/>
+</p>
+
+
+<h2 align="center">Programming languages that i mainly use.</h2>
+<p align="center">
+  <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D"></a> 
+  <img alt="c++" src="https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC"></a> 
+  <img alt="Dart" src="https://img.shields.io/badge/-Dart-090909?style=for-the-badge&logo=dart&logoColor=097CDB"></a>    
+  <img alt="Sql" src="https://img.shields.io/badge/-Sql-090909?style=for-the-badge&logo=mysql&logoColor=00648B"></a> 
+  <img alt="Mongo" src="https://img.shields.io/badge/-MongoDB-090909?style=for-the-badge&logo=MongoDB&logoColor=00648B"></a> 
+  <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-090909?style=for-the-badge&logo=Kotlin&logoColor=00648B"></a> 
+</p>
+
+
+
+<h2 align="center">My github profile stastictics.</h2>
+
+<p align="center">
+    <a href="https://github.com/XRaymondPL">
+        <img title="XRaymondPL stats" alt="XRaymondPL's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=XRaymondPL&theme=dark&hide_border=true&stroke=f53b3b"/>
+    </a>
+</p><br>
+<a href="https://github.com/XRaymondPL"><img alt="XRaymondPL's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=XRaymondPL&bg_color=0D1117&color=eca15b&line=eca15b&point=FFFFFF&hide_border=true" /></a>
+  
+
+<h2 align="center">Contact me</h2>
+<p align="center">Discord: Raymondziq#0001</p>
+</pre><br>
+
+
+
+
+<h2 align="center">Discord Profile</h2><br>
+  <p align="center">
+    <a href="https://discord.gg/ee8KuBVnAJ">
+        <img title="XRaymondPL discord" alt="XRaymondPL's discord" src="https://discord.c99.nl/widget/theme-3/904342910651232256.png"/>
+    </a>
+</p>
