@@ -22,9 +22,9 @@
   <a href="https://github.com/XRaymondPL">
    <img alt="Github" src="https://img.shields.io/github/followers/XRaymondPL?color=7289DA&logo=github&label=Followers&style=for-the-badge&logoWidth=10&labelColor=000'"></a>   
   
-  
+<center>  
 [![trophy](https://github-profile-trophy.vercel.app/?username=XRaymondPL&row=2&column=8&theme=dark_lover)](https://github.com/ryo-ma/github-profile-trophy)
-
+  </center>
   
 
   
