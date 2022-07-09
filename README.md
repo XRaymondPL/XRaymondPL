@@ -38,7 +38,6 @@
   <img alt="Php" src="https://img.shields.io/badge/-php-090909?style=for-the-badge&logo=php&logoColor=474A8A"></a>    
   <img alt="Sql" src="https://img.shields.io/badge/-Sql-090909?style=for-the-badge&logo=mysql&logoColor=00648B"></a> 
   <img alt="Mongo" src="https://img.shields.io/badge/-MongoDB-090909?style=for-the-badge&logo=MongoDB&logoColor=00648B"></a> 
-  <img alt="C++" src="https://img.shields.io/badge/-c++-090909?style=for-the-badge&logo=c++&logoColor=00648B"></a> 
 </p>
 
 
