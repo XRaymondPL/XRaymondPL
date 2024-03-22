@@ -51,5 +51,3 @@
 <h2 align="center">Contact me</h2>
 <p align="center">Discord: raymondziq</p>
 </pre><br>
-
-<img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" alt="sneke"></a>
