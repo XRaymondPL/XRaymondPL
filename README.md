@@ -46,20 +46,10 @@
         <img title="XRaymondPL stats" alt="XRaymondPL's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=XRaymondPL&theme=dark&hide_border=true&stroke=f53b3b"/>
     </a>
 </p><br>
-<a href="https://github.com/XRaymondPL"><img alt="XRaymondPL's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=XRaymondPL&bg_color=0D1117&color=eca15b&line=eca15b&point=FFFFFF&hide_border=true" /></a>
   
 
 <h2 align="center">Contact me</h2>
-<p align="center">Discord: Raymondziq#0001</p>
+<p align="center">Discord: raymondziq</p>
 </pre><br>
 
-
-
-
-<h2 align="center">Discord Profile</h2><br>
-  <p align="center">
-    <a href="https://discord.gg/ee8KuBVnAJ">
-        <img title="XRaymondPL discord" alt="XRaymondPL's discord" src="https://discord.c99.nl/widget/theme-3/904342910651232256.png"/>
-    </a>
-</p>
 <img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" alt="sneke"></a>
